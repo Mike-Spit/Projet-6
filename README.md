@@ -4,7 +4,7 @@
 
 ## 🌐 Lien du dépôt GitHub
 
-**Frontend fourni par OpenClassrooms :** [Lien vers le repo officiel](https://github.com/OpenClassrooms-Student-Center/OC-frontend-mon-vieux-grimoire)
+**Frontend fourni par OpenClassrooms :** [Lien vers le repo officiel](https://github.com/OpenClassrooms-Student-Center/P7-Dev-Web-livres/tree/main)
 
 **Backend (ce projet) :** [https://github.com/Mike-Spit/Projet-6](https://github.com/Mike-Spit/Projet-6)
 
